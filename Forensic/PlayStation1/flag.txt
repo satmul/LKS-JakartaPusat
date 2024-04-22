@@ -1,0 +1,4 @@
+1. analyze the code
+2. deobfuscate base64
+3. flag on stage
+4. LKSJakpus{ez_0bfu5c4t3d_p0w3rsh3ll_5cr1pt}

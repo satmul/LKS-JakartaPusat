@@ -1,0 +1,6 @@
+key xor:LKSCTF24GOODLUCK
+key aes:superstrongkeyzz
+
+xored = ?>#&&5FF(!(/),91
+
+flag: well_did_you_use_frida_or_static_analysis?
